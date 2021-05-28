@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there! I'm a self-taught developer who enjoys coding, and mainly does Python, but I have ample experience in other programs as well! I'm working on a variety of projects, from Hypixel API's to macros for games like VALORANT.
+
+![](https://komarev.com/ghpvc/?username=DocEmerald&color=blue)
 
 <!--
 **DocEmerald/DOcEmerald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
